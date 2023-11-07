@@ -1,4 +1,4 @@
-package com.example.jdbcex;
+package org.zerock.jdbcex;
 
 import java.io.*;
 import javax.servlet.http.*;
